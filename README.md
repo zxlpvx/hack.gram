@@ -1,5 +1,5 @@
-# Instagram-Hacker
-This is a script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!
+Note
+i aint taking no responsibility for ur crime and shits.
 
 # Usage
 
